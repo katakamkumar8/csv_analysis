@@ -1,12 +1,12 @@
-                                                                                        CSV Analysis Django Web Application
+         CSV Analysis Django Web Application
 This Django-based web application allows users to upload CSV files, perform data analysis using Pandas and NumPy, and display the results and visualizations on a web interface. This README file provides an overview of the project, including setup instructions, features, and usage details.
-                                                                                         Table of Contents
+         Table of Contents
 Features
 Prerequisites
 Setup Instructions
 Brief Explanation
 
-                                                                                            Features
+           Features
 File Upload: Users can upload CSV files via a web form.
 Data Processing: The application uses Pandas to read the CSV file and performs basic data analysis, including:
 Displaying the first few rows of the data.
@@ -15,7 +15,7 @@ Identifying and handling missing values.
 Data Visualization: Generates basic plots (e.g., histograms) using Matplotlib or Seaborn and displays them on the web page.
 User Interface: A simple and user-friendly interface built with Django templates to display the data analysis results and visualizations
 
-                                                                                          Prerequisites
+          Prerequisites
 Python 3.x
 Django 4.x
 Pandas
@@ -23,7 +23,7 @@ NumPy
 Matplotlib
 Seaborn
 
-                                                                                       Setup Instructions
+          Setup Instructions
 Step 1: Install Python and Django:
 Ensure you have Python 3.x installed. If not, download and install it from python.org.
 
